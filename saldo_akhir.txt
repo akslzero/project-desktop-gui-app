@@ -1,0 +1,5 @@
+=== Laporan Akhir Penjualan ===
+Saldo Akhir: Rp 0.0
+Total Transaksi: Rp 0.0
+Total Pembeli: 0
+Tanggal dan Waktu: 2025-02-14 10:27:35
