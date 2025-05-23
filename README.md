@@ -1,6 +1,6 @@
 [DESKTOP GUI APP - KASIR SEDERHANA]
 
-## Cara Menjalankan
+# Cara Menjalankan
 
 1. Download source codenya
 2. Copy ke folder projek mu
